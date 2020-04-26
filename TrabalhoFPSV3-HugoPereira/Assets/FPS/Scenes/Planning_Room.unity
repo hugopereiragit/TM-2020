@@ -5629,7 +5629,7 @@ PrefabInstance:
     - target: {fileID: 598277302063295030, guid: 012d63212fd1fe646b661cb8446c7bd4,
         type: 3}
       propertyPath: message
-      value: Read the "plans" and leave when youre ready
+      value: Read the "plans" and leave when you're ready
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 012d63212fd1fe646b661cb8446c7bd4, type: 3}
