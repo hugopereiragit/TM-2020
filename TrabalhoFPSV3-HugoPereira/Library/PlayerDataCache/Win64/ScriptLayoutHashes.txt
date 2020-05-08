@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/hugol/Desktop/gameFPSvF/TrabalhoFPSV3-HugoPereira.exe
+C:/Users/hugol/Desktop/Build7/TrabalhoFPSV3-HugoPereira.exe
 SceneListBegin?
 Assets/FPS/Scenes/IntroMenu.unity
 Assets/FPS/Scenes/WinScene.unity
